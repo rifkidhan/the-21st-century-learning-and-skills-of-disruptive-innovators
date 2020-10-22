@@ -1,0 +1,709 @@
+[
+  {
+    "_component": "list",
+    "_classes": "white-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "FOUNDATIONAL LITERACIES",
+    "displayTitle": "FOUNDATIONAL LITERACIES",
+    "body": "<p>(interdiciplinarity)</p>",
+    "_id": "5f912ed2b0064f30e4f93425",
+    "_parentId": "5f912e9ab0064f30e4f93424",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 40,
+    "_orderedList": false,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Language</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Numeracy</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Scientific</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>ICT</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Financial</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Cultural &amp; Civic</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "white-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "COMPETENCIES",
+    "displayTitle": "COMPETENCIES",
+    "body": "",
+    "_id": "5f9132bab0064f30e4f93427",
+    "_parentId": "5f913292b0064f30e4f93426",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 40,
+    "_orderedList": false,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Critical thinking/ Problem solving</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Creativity</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Communication</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Collaboration</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Computing</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Cross-cultural Understanding</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>&nbsp;Career</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "white-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "CHARACTER QUALITIES",
+    "displayTitle": "CHARACTER QUALITIES",
+    "body": "",
+    "_id": "5f9133b5b0064f30e4f93429",
+    "_parentId": "5f91339cb0064f30e4f93428",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 40,
+    "_orderedList": false,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Curiosity</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Initiative</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Mindfulness</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Courage</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Resilience</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Ethics</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Leadership</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Social &amp; cultural awareness</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "STUDIES ON 21st CENTURY SKILLS",
+    "displayTitle": "STUDIES ON 21st CENTURY SKILLS",
+    "body": "<p>World Economic Forum 2016. <em>Future of Work Report</em>, 2016.<br /><em>Deloitte Global Human Capital Report</em>, 2017. Gallup State of the American Workplace 2017.</p>",
+    "_id": "5f913d9fb0064f30e4f93433",
+    "_parentId": "5f913d7db0064f30e4f93432",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>33% of <strong>core skills</strong> for most jobs by 2020 will include <strong>skills</strong> that aren’t considered important today.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a9c7df37eba6fbe9289afc3e78b63a5abe3476ea.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "STUDIES ON 21st CENTURY SKILLS 1"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>77% of companies will either retrain people to use technology or redesign jobs to better leverage <strong>“people” skills.</strong></p>",
+        "_graphic": {
+          "src": "course/en/assets/2e163bdf525ff0f6eb2a3a1b2c7fb922f180766f.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "STUDIES ON 21st CENTURY SKILLS 2"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>94% of companies say <strong>agility </strong>and<strong> collaboration</strong> are critical to their success, yet only 6% consider themselves “highly agile” today.</p>",
+        "_graphic": {
+          "src": "course/en/assets/6116938b4ceabe677aa307d7294ab7b02ff2eba3.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "STUDIES ON 21st CENTURY SKILLS 3"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>84% of employees work in networked/ matrixed environments , requiring stronger <strong>relationship </strong>and<strong> self management skills.</strong></p>",
+        "_graphic": {
+          "src": "course/en/assets/ec3411d3423f8187f07cec69cce3bb44a1bb8259.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "STUDIES ON 21st CENTURY SKILLS 4"
+      }
+    ]
+  },
+  {
+    "_component": "youtube",
+    "_classes": "green-component-solid",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "21st Century learning & Life Skills: Framework",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f9157f4b0064f30e4f93445",
+    "_parentId": "5f9156d0b0064f30e4f93444",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/ixRBjEW_sFs",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text Video",
+    "displayTitle": "",
+    "body": "<p>In this video, 21st century life skills are divided into two components, the first being student outcomes, and the second being support systems for teachers.</p>",
+    "_id": "5f915dbeb0064f30e4f93447",
+    "_parentId": "5f916460b0064f30e4f9344a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Student outcomes are broken down into four different categories. ",
+        "body": "<p>The first category is Key subjects and 21st century themes that cross between disciplines within school curriculum.</p><p>The second part of student outcomes is information, media, and technology along with digital citizenship and student online safety.</p><p>The next category is learning environments, learning skills, and innovation skills.</p><p>And the last section of student outcomes is life and career skills. Career skills are something that educators need to focus on in their classroom.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "The Educator and Student Support Systems",
+        "body": "<p>The second component of this is the educator and student support systems. The student support systems is dividing into five parts, the first being 21st century standards, the second being assessments for these life skills and career skills, the next one is curriculum and assessments, which is then followed by professional development, and lastly learning environments.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Tambahan text",
+    "displayTitle": "",
+    "body": "<p>Watch the video!</p><p>When was the video made? Is it still relevant with the current condition?</p><p>What can you conclude?</p><p>How do you see it from Indonesian context?</p>",
+    "_id": "5f9164ebb0064f30e4f9344b",
+    "_parentId": "5f916460b0064f30e4f9344a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "green-component-solid",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Learning to live together in peace through Global Citizenship Education",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f916f5eb0064f30e4f93454",
+    "_parentId": "5f916a7db0064f30e4f9344d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/KuKzq9EDt-0",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": true,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "list",
+    "_classes": "white-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text Video",
+    "displayTitle": "",
+    "body": "<p>Watch the video. This video is from the UNESCO on “Learning to live together in peace through Global Citizenship Education” which explains the importance of Global Citizenship Education (GCED) in a globalized and increasingly interconnected and interdependent world. GCED is key to understand the interconnections between the local and the global and nurture a sense of belonging to a common humanity. It builds motivation to assume active roles to contribute to a more just, peaceful, tolerant and sustainable world. The video also illustrates how GCED can be delivered in and outside of schools.</p><p>Answer the following questions.</p>",
+    "_id": "5f9171dfb0064f30e4f93456",
+    "_parentId": "5f9171b1b0064f30e4f93455",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 40,
+    "_orderedList": true,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>What is global citizenship and why is it important?</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>How would you promote global citizenship in your classroom?</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Defining 21st Century Literacy",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f917953b0064f30e4f93459",
+    "_parentId": "5f9178d2b0064f30e4f93458",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/byzoDZAdzmU",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": true,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": "red"
+    },
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text Video",
+    "displayTitle": "",
+    "body": "<p>Watch the video then write down some important things and draw the conclusions from what the speaker said!</p>",
+    "_id": "5f917a5db0064f30e4f9345b",
+    "_parentId": "5f917a56b0064f30e4f9345a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "21st CENTURY EDUCATION",
+    "displayTitle": "21st CENTURY EDUCATION",
+    "body": "<p>Metacognition “How we reflect, learn, and adapt” (UNESCO, 2016)</p>",
+    "_id": "5f917d46b0064f30e4f9345c",
+    "_parentId": "5f912088b0064f30e4f93422",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Knowledge",
+        "body": "<blockquote><p>“What we know”</p></blockquote>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Skills",
+        "body": "<blockquote><p>“How we use what&nbsp;we know”</p></blockquote>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Character",
+        "body": "<blockquote><p>“How we engage in the world”</p></blockquote>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "METACOGNITION GROWTH MINDSET",
+    "displayTitle": "METACOGNITION GROWTH MINDSET",
+    "body": "<p>Standards based (UNESCO, 2016)</p>",
+    "_id": "5f919d3eb0064f30e4f93461",
+    "_parentId": "5f913c15b0064f30e4f9342f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/876f12e6fa1118564ed4cd36216ce8c4d21dbecf.png",
+      "small": "course/en/assets/876f12e6fa1118564ed4cd36216ce8c4d21dbecf.png",
+      "attribution": ""
+    }
+  }
+]
